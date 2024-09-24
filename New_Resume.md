@@ -47,7 +47,7 @@ June 2022 - February 2023
       SDLC/STLC and methodologies, Agile, Scrum and Kanban,Test types, test levels, Black-box/White-box/Grey-box testing (Black box testing techniques), Bug reporting and test documentation creation, Smoke/Sanity/Regression testing, Intro to Web/Mobile/Desktop application testing, Intro to HTML/CSS, DevTools, Client-Server overview, Intro to SQL database testing, SQL testing and SQLite*
 ## Experience
 
-**QA**
+**Mobile Game QA**
   ~ AppQuantum
   ~ August 2023 - Present
 
@@ -55,7 +55,7 @@ June 2022 - February 2023
 - Functionality, Combinational, Exploratory, Compatibility, Play, Regression, Load, Stress and Smoke Testing
 - Mediation verification, analytics checking, log extraction and reading, bug reporting, creating and editing instructions, discussing and analyzing technical issues with teams
 - Monitoring ANR and Crash rates through Google Console and Firebase
--  Collaborating with teams: developers, producers, business developers, mediation
+-  Collaborating with teams: developers, producers, business developers, mediation, analytics, PMs, support and community
 - Bug tracking, test cases, opening tasks and following the process
 
 
@@ -122,8 +122,8 @@ June 2022 - February 2023
 
 ## Skills
 
-**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Frython, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaSauce / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeSauce, <span class="iconify" data-icon="vscode-icons:file-type-cpp2"></span> Cheese++, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java Bean
+**Programming Languages:**Python, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaSauce / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeSauce, <span class="iconify" data-icon="vscode-icons:file-type-cpp2"></span> Cheese++, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java Bean
 
 **Tools and Frameworks:** Postman, Git, Jira, TestRail, AppsFlyer, Firebase, Google Console, Apple Developer, SQL, TestFlight, DataGrip, Ocean, Miro, GitHub, Notion, HGS/Studio,GrayLog, Trello, Unity Ads, Galaxy Emulator Skin, Slack, Teams, HubSpot, Asana, Time management, Multitasking, Teamwork, Analytical-thinking, Microsoft Office, Zendesk, Data processing, Customer follow-up, Customer complaint handling, Customer communications, Outstanding telephone manner
 
-**Languages:** English, Russian, Armenian, Serbian (A1), Italian (A1)
+**Languages:** English, Russian, Armenian, Serbian (A1), Italian (A2)
