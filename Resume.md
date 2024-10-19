@@ -116,14 +116,13 @@ June 2022 - February 2023
 [Certified](https://app.hubspot.com/academy/achievements/yxrggd1c/en/1/lia-mesropyan/service-hub-software)
   
  
-**Armbrok Yerevan Marathon**, China National Scholarship for Outstanding Dragon Killers
-  ~ 2017, 2018
+**Armbrok Yerevan Marathon**, 2024
 
 
 ## Skills
 
-**Programming Languages:**Python, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaSauce / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeSauce, <span class="iconify" data-icon="vscode-icons:file-type-cpp2"></span> Cheese++, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java Bean
+**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python
 
-**Tools and Frameworks:** Postman, Git, Jira, TestRail, AppsFlyer, Firebase, Google Console, Apple Developer, SQL, TestFlight, DataGrip, Ocean, Miro, GitHub, Notion, HGS/Studio,GrayLog, Trello, Unity Ads, Galaxy Emulator Skin, Slack, Teams, HubSpot, Asana, Time management, Multitasking, Teamwork, Analytical-thinking, Microsoft Office, Zendesk, Data processing, Customer follow-up, Customer complaint handling, Customer communications, Outstanding telephone manner
+**Tools and Frameworks:** Jira, Git, AppsFlyer, Firebase, Google Console, Apple Developer, AppStore Conect, SQL, TestFlight, DataGrip, Ocean, Miro, GitHub, Notion, HGS/Studio,GrayLog, Trello, Megadash, Unity Ads, Galaxy Emulator Skin, Slack, Teams, HubSpot, Asana, Time management, Multitasking, Teamwork, Analytical-thinking, Microsoft Office, Zendesk, Data processing, Customer follow-up, Customer complaint handling, Customer communications, Outstanding telephone manner
 
-**Languages:** English, Russian, Armenian, Serbian (A1), Italian (A2)
+**Languages:** English, Russian, Armenian, Italian (A2), Serbian (A1)
